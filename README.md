@@ -1,0 +1,2 @@
+# arcod
+arcolinuxd-enlightenment
