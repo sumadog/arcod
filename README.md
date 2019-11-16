@@ -1,2 +1,2 @@
 # arcod
-arcolinuxd-enlightenment
+arcolinuxd testing ground for lxqt, enlightenment and any other flavour that intrigues.
