@@ -21,7 +21,7 @@ set -e
 echo "DESKTOP SPECIFIC APPLICATIONS"
 
 echo "Installing category Accessories"
-sudo pacman -S xfce4-terminal --noconfirm --needed
+sudo pacman -S --noconfirm --needed xfce4-terminal 
 echo "Installing category Development"
 
 echo "Installing category Education"
